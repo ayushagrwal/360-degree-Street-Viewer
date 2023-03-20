@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93376479, 50.98380407]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000000.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93377411, 50.98376802]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000001.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93378524, 50.9837232]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000002.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93378027, 50.98368124]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000003.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93373754, 50.98364982]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000004.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.9336743, 50.983634]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000005.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93361004, 50.98363497]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000006.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93356273, 50.98366071]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000007.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93354303, 50.98370195]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000008.jpg",
+        "description": "This is Image"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.93353315, 50.98374614]
+      },
+      "properties": {
+        "name": "./img360/HMTpano_000001_000009.jpg",
+        "description": "This is Image"
+      }
+    }
+  ]
+}

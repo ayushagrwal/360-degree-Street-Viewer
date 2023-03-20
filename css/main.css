@@ -1,0 +1,22 @@
+.column{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#pano{
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+#map{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#pano-cont {
+    position: absolute;
+    width: 200%;
+    height: 100%;
+}

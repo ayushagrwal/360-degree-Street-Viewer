@@ -1,7 +1,5 @@
 # 360-degree-Street-Viewer
 
 ![image](https://user-images.githubusercontent.com/97256400/226448356-7e4f8f28-1ef5-4710-a242-befee4ac59e0.png)
-It's a website which shows 360 degree street view of the place where you click on the map. I've used HTML, CSS, JavaScript to make this project.
-Firstly, I divided the screen vertically in half. Left side of the screen shows map and coordinates (displayed as points) and Right side of the screen shows the corresponding 360 image. For coordinate information, I used sample.txt file in which the data is written in GeoJSON Format. I used OpenLayers for this task. On Click of any coordinate, it opens the corresponding 360 degree images in right screen. I've used panolens.js library for this task.
-I've deployed it on GitHub Pages.
-
+I've created a website that provides a 360-degree street view of any location you click on the map. To develop this project, I utilized HTML, CSS, and JavaScript. Initially, I divided the screen into two vertical halves, with the left side displaying the map and coordinates in point format, and the right side displaying the corresponding 360-degree image. To obtain the coordinate information, I referenced the sample.txt file, which contains data in GeoJSON Format, and incorporated OpenLayers to facilitate this process.
+Upon clicking on a coordinate, the corresponding 360-degree image will be displayed on the right side of the screen. To achieve this functionality, I implemented the panolens.js library. The website has been deployed on GitHub Pages for ease of access.
